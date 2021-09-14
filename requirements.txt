@@ -1,0 +1,7 @@
+ChromeDriver 89.0.4389.23
+
+pip install requests
+
+pip install beautifulSoup4
+
+pip install pillow
